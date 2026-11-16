@@ -1,0 +1,6 @@
+git config --global user.name "wwwate_006"
+git config --global user.email "999wwwate@gmail.com"
+
+ui product sprint
+розробка інтерфейсу користувача за Т3 та у figma 
+https://www.figma.com/design/nFZLWZ27nveAV1fRodzRX2/BAZA-R_Rozetka?node-id=0-1&p=f&t=pqSYvmSluoOtYHRd-0
